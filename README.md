@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gauravpurohit409
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Ruby on Rails.
+- 🌱 I’m currently working on Ruby on Rails and learning angular.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: http://twitter.com/gp_409
 
